@@ -1,0 +1,4 @@
+Experiment,Test Loss,Dice,IoU
+U-Net Raw Baseline,0.3916,0.6633,0.5570
+U-Net Augmentation and Normalization,0.4090,0.6303,0.5273
+U-Net ResNet34,0.3591,0.7908,0.6992

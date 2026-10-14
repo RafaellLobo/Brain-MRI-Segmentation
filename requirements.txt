@@ -1,0 +1,17 @@
+# Dependências importadas diretamente em notebooks/Brain_MRI_Segmentation.ipynb.
+# O notebook foi executado no Google Colab (GPU Tesla T4) sem registro das
+# versões instaladas; por isso nenhuma versão foi fixada aqui.
+# Dependências transitivas (torchvision, timm, opencv-python-headless etc.)
+# são instaladas automaticamente pelos pacotes abaixo.
+# O módulo google.colab é usado para montar o Google Drive e só existe no Colab.
+
+torch
+segmentation-models-pytorch
+albumentations
+torchinfo
+kagglehub
+numpy
+pandas
+matplotlib
+Pillow
+scikit-learn
